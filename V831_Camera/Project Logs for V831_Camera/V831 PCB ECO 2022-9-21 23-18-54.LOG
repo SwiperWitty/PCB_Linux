@@ -1,0 +1,14 @@
+Added Component: Designator=J2(TF_Card)
+Added Pin To Net: NetName=SDC0-D2 Pin=J2-1
+Added Pin To Net: NetName=SDC0-D3 Pin=J2-2
+Added Pin To Net: NetName=SDC0-CMD Pin=J2-3
+Added Pin To Net: NetName=VDD Pin=J2-4
+Added Pin To Net: NetName=SDC0-CLK Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=SDC0-D0 Pin=J2-7
+Added Pin To Net: NetName=SDC0-D1 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Member To Class: ClassName=V831 Member=Component J2 TF_Card
+Added Room: Name=V831
+Added Room: Name=V831_CORE

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=LED3 Old Footprint=C0806 New Footprint=LED_0603_R
+Added Room: Name=V831
+Added Room: Name=V831_CORE

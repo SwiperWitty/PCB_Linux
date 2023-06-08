@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=P1 Old Footprint=FPC-24Pin New Footprint=FPC_24P-F
+Added Member To Class: ClassName=V831 Member=Component C3 10UF
+Added Member To Class: ClassName=V831 Member=Component C4 100NF
+Added Member To Class: ClassName=V831 Member=Component C5 100NF
+Added Member To Class: ClassName=V831 Member=Component C6 100NF
+Added Member To Class: ClassName=V831 Member=Component C7 22UF
+Added Member To Class: ClassName=V831 Member=Component C8 10UF
+Added Member To Class: ClassName=V831 Member=Component R3 45K
+Added Member To Class: ClassName=V831 Member=Component R7 2K
+Added Member To Class: ClassName=V831 Member=Component R13 10K
+Added Member To Class: ClassName=V831 Member=Component R14 5.1K
+Added Member To Class: ClassName=V831 Member=Component R16 10K
+Added Member To Class: ClassName=V831 Member=Component R17 10K
+Added Member To Class: ClassName=V831 Member=Component R18 22R
+Added Room: Name=V831
+Added Room: Name=V831_CORE

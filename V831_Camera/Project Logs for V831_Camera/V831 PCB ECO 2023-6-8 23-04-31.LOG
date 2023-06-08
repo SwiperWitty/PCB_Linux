@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=P2-11
+Added Pin To Net: NetName=LCD_HSYNC Pin=P2-11
+Added Room: Name=V831
+Added Room: Name=V831_CORE

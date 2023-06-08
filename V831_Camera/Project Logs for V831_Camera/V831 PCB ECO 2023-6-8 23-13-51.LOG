@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=R14-1
+Added Pin To Net: NetName=+5 Pin=R14-1
+Added Room: Name=V831
+Added Room: Name=V831_CORE

@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=P1 Old Footprint=FPC_24P-F New Footprint=FPC-24Pin
+Added Room: Name=V831
+Added Room: Name=V831_CORE

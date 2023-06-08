@@ -1,0 +1,129 @@
+Removed Pin From Net: NetName=KEY1 Pin=M1-69
+Removed Pin From Net: NetName=KEY2 Pin=M1-71
+Removed Pin From Net: NetName=KEY3 Pin=M1-73
+Change Component Comment : Designator=R3 Old Comment=1.5K New Comment=2K
+Change Component Comment : Designator=R6 Old Comment=1.5K New Comment=2K
+Change Component Comment : Designator=R9 Old Comment=10K New Comment=2K
+Change Component Comment : Designator=R11 Old Comment=10K New Comment=2K
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C5
+Change Component Designator: OldDesignator=C4 NewDesignator=C6
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C11
+Change Component Designator: OldDesignator=C8 NewDesignator=C12
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Added Component: Designator=C7(CAP_3528_B)
+Added Component: Designator=C8(CAP_0603)
+Added Component: Designator=C9(CAP_3528_B)
+Added Component: Designator=C10(CAP_0603)
+Added Component: Designator=P4(PH2.0-LS-2P)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P5(Mark)
+Added Component: Designator=R13(RESC_0603_2)
+Added Component: Designator=R16(RESC_0603_2)
+Added Component: Designator=U3(SOT23_5)
+Added Component: Designator=U4(SOT23_5)
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VDD Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=VDD Pin=C10-2
+Added Pin To Net: NetName=KEY3 Pin=M1-62
+Added Pin To Net: NetName=KEY2 Pin=M1-64
+Added Pin To Net: NetName=KEY1 Pin=M1-66
+Added Pin To Net: NetName=SPI1_CLK Pin=M1-69
+Added Pin To Net: NetName=SPI1_MOSI Pin=M1-71
+Added Pin To Net: NetName=SPI1_MISO Pin=M1-73
+Added Pin To Net: NetName=SPI1_CS Pin=M1-75
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=TWI1_SCK Pin=P1-4
+Added Pin To Net: NetName=TWI1_SDA Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P1-9
+Added Pin To Net: NetName=GND Pin=P1-11
+Added Pin To Net: NetName=GND Pin=P1-14
+Added Pin To Net: NetName=GND Pin=P1-17
+Added Pin To Net: NetName=GND Pin=P1-20
+Added Pin To Net: NetName=1V8 Pin=P1-21
+Added Pin To Net: NetName=GND Pin=P1-22
+Added Pin To Net: NetName=UART_RXD Pin=P4-1
+Added Pin To Net: NetName=UART_TXD Pin=P4-2
+Added Pin To Net: NetName=ADC Pin=P5-1
+Added Pin To Net: NetName=TWI1_SDA Pin=R4-2
+Added Pin To Net: NetName=TWI1_SCK Pin=R7-2
+Added Pin To Net: NetName=VDD Pin=R13-2
+Added Pin To Net: NetName=VDD Pin=R16-2
+Added Pin To Net: NetName=VDD Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=VDD Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=1V5 Pin=C9-1
+Added Pin To Net: NetName=1V5 Pin=P1-23
+Added Pin To Net: NetName=1V5 Pin=U4-5
+Added Net: Name=1V5
+Added Pin To Net: NetName=3V0 Pin=C7-1
+Added Pin To Net: NetName=3V0 Pin=P1-2
+Added Pin To Net: NetName=3V0 Pin=U3-5
+Added Net: Name=3V0
+Added Pin To Net: NetName=MCSI_D1_N Pin=M1-57
+Added Pin To Net: NetName=MCSI_D1_N Pin=P1-16
+Added Net: Name=MCSI_D1_N
+Added Pin To Net: NetName=MCSI_D1_P Pin=M1-55
+Added Pin To Net: NetName=MCSI_D1_P Pin=P1-15
+Added Net: Name=MCSI_D1_P
+Added Pin To Net: NetName=MCSI_D2_N Pin=M1-49
+Added Pin To Net: NetName=MCSI_D2_N Pin=P1-19
+Added Net: Name=MCSI_D2_N
+Added Pin To Net: NetName=MCSI_D2_P Pin=M1-51
+Added Pin To Net: NetName=MCSI_D2_P Pin=P1-18
+Added Net: Name=MCSI_D2_P
+Added Pin To Net: NetName=MCSI_MCLK Pin=M1-34
+Added Pin To Net: NetName=MCSI_MCLK Pin=P1-10
+Added Net: Name=MCSI_MCLK
+Added Pin To Net: NetName=MCSI_MCN Pin=M1-45
+Added Pin To Net: NetName=MCSI_MCN Pin=P1-13
+Added Net: Name=MCSI_MCN
+Added Pin To Net: NetName=MCSI_MCP Pin=M1-43
+Added Pin To Net: NetName=MCSI_MCP Pin=P1-12
+Added Net: Name=MCSI_MCP
+Added Pin To Net: NetName=MCSI_PWDN Pin=M1-26
+Added Pin To Net: NetName=MCSI_PWDN Pin=P1-8
+Added Pin To Net: NetName=MCSI_PWDN Pin=R11-2
+Added Net: Name=MCSI_PWDN
+Added Pin To Net: NetName=MCSI_RSTN Pin=M1-28
+Added Pin To Net: NetName=MCSI_RSTN Pin=P1-7
+Added Pin To Net: NetName=MCSI_RSTN Pin=R9-2
+Added Net: Name=MCSI_RSTN
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U3-3
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U4-3
+Added Net: Name=NetR16_1
+Added Member To Class: ClassName=V831 Member=Component C9 22UF
+Added Member To Class: ClassName=V831 Member=Component C10 10UF
+Added Member To Class: ClassName=V831 Member=Component C11 10UF
+Added Member To Class: ClassName=V831 Member=Component C12 100NF
+Added Member To Class: ClassName=V831_CORE Member=Component P4 Header 2
+Added Member To Class: ClassName=V831_CORE Member=Component P5 Mark
+Added Member To Class: ClassName=V831 Member=Component R19 1K
+Added Member To Class: ClassName=V831 Member=Component R20 1M
+Added Member To Class: ClassName=V831 Member=Component U3 LDO
+Added Member To Class: ClassName=V831 Member=Component U4 LDO
+Added Room: Name=V831
+Added Room: Name=V831_CORE

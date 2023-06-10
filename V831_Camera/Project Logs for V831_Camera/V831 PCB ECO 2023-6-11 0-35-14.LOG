@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=KEY1 Pin=R14-1
+Removed Pin From Net: NetName=VDD Pin=R14-2
+Removed Pin From Net: NetName=KEY2 Pin=R14-3
+Removed Pin From Net: NetName=KEY3 Pin=R14-5
+Added Pin To Net: NetName=KEY3 Pin=R14-3
+Added Pin To Net: NetName=KEY2 Pin=R14-5
+Added Pin To Net: NetName=KEY1 Pin=R14-7
+Added Pin To Net: NetName=VDD Pin=R14-8

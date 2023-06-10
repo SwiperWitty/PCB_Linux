@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=TWI1_SDA Pin=R8-2
+Removed Pin From Net: NetName=TWI1_SCK Pin=R8-4
+Added Pin To Net: NetName=TWI1_SCK Pin=R8-2
+Added Pin To Net: NetName=TWI1_SDA Pin=R8-4
+Added Member To Class: ClassName=V831 Member=Component R4 10K
+Added Member To Class: ClassName=V831 Member=Component R7 0R
+Added Member To Class: ClassName=V831 Member=Component R8 10K
+Added Member To Class: ClassName=V831 Member=Component R9 10K
+Added Member To Class: ClassName=V831 Member=Component R10 10K
+Added Member To Class: ClassName=V831 Member=Component R11 5.1K
+Added Member To Class: ClassName=V831 Member=Component R16 1K
+Added Room: Name=V831
+Added Room: Name=V831_CORE

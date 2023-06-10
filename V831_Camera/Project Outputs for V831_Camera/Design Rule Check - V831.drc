@@ -1,0 +1,60 @@
+Protel Design System Design Rule Check
+PCB File : E:\ÐÇ³½´óº£\Hardwrae\PCB_Linux\V831_Camera\V831.PcbDoc
+Date     : 2023/6/11
+Time     : 2:12:11
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=30mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=600mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A12(128.352mil,1336.366mil) on Top Layer 1 And Pad COM1-A9(128.352mil,1304.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A5(128.552mil,1259.566mil) on Top Layer 1 And Pad COM1-A8(128.452mil,1279.266mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A5(128.552mil,1259.566mil) on Top Layer 1 And Pad COM1-B7(128.452mil,1239.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.862mil < 4mil) Between Pad COM1-A6(128.452mil,1220.166mil) on Top Layer 1 And Pad COM1-A7(128.452mil,1200.566mil) on Top Layer 1 [Top Solder] Mask Sliver [3.862mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A6(128.452mil,1220.166mil) on Top Layer 1 And Pad COM1-B7(128.452mil,1239.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A7(128.452mil,1200.566mil) on Top Layer 1 And Pad COM1-B6(128.452mil,1180.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-A8(128.452mil,1279.266mil) on Top Layer 1 And Pad COM1-A9(128.352mil,1304.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-B1(128.452mil,1084.366mil) on Top Layer 1 And Pad COM1-B4(128.452mil,1115.866mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-B4(128.452mil,1115.866mil) on Top Layer 1 And Pad COM1-B5(128.452mil,1141.466mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-B5(128.452mil,1141.466mil) on Top Layer 1 And Pad COM1-B8(128.452mil,1161.166mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.962mil < 4mil) Between Pad COM1-B6(128.452mil,1180.866mil) on Top Layer 1 And Pad COM1-B8(128.452mil,1161.166mil) on Top Layer 1 [Top Solder] Mask Sliver [3.962mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 4mil) Between Pad J1-10(1410.197mil,493.701mil) on Bottom Layer 1 And Pad J1-9(1362.953mil,521.26mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [3.811mil]
+Rule Violations :12
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 12
+Waived Violations : 0
+Time Elapsed        : 00:00:01

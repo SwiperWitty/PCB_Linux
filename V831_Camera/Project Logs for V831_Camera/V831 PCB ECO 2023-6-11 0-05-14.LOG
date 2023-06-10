@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=1V8 Pin=R4-1
+Removed Pin From Net: NetName=TWI1_SDA Pin=R4-2
+Removed Pin From Net: NetName=1V8 Pin=R7-1
+Removed Pin From Net: NetName=TWI1_SCK Pin=R7-2
+Removed Pin From Net: NetName=1V8 Pin=R9-1
+Removed Pin From Net: NetName=MCSI_RSTN Pin=R9-2
+Removed Pin From Net: NetName=1V8 Pin=R11-1
+Removed Pin From Net: NetName=MCSI_PWDN Pin=R11-2
+Removed Member From Class: ClassName=V831 Member=R4
+Removed Member From Class: ClassName=V831 Member=R7
+Removed Member From Class: ClassName=V831 Member=R9
+Removed Member From Class: ClassName=V831 Member=R11
+Added Component: Designator=R?(RESC_0603_4)
+Added Pin To Net: NetName=1V8 Pin=R?-1
+Added Pin To Net: NetName=TWI1_SDA Pin=R?-2
+Added Pin To Net: NetName=1V8 Pin=R?-3
+Added Pin To Net: NetName=TWI1_SCK Pin=R?-4
+Added Pin To Net: NetName=1V8 Pin=R?-5
+Added Pin To Net: NetName=MCSI_RSTN Pin=R?-6
+Added Pin To Net: NetName=1V8 Pin=R?-7
+Added Pin To Net: NetName=MCSI_PWDN Pin=R?-8
+Added Member To Class: ClassName=V831 Member=Component R? 10K
+Added Room: Name=V831
+Added Room: Name=V831_CORE

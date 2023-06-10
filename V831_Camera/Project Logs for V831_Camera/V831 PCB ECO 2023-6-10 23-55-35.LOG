@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=1V8 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=3V0 Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=1V5 Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C9-2
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Added Component: Designator=C3(CAP_1206)
+Added Component: Designator=C8(CAP_1206)
+Added Component: Designator=C10(CAP_1206)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=1V8 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V0 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=1V5 Pin=C10-2
+Added Room: Name=V831
+Added Room: Name=V831_CORE

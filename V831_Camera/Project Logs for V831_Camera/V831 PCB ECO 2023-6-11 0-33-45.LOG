@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=M1-0
+Added Pin To Net: NetName=KEY2 Pin=KEY1-3
+Added Pin To Net: NetName=KEY3 Pin=KEY1-4
+Added Room: Name=V831
+Added Room: Name=V831_CORE

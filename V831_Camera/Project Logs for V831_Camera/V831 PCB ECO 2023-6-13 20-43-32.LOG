@@ -1,0 +1,34 @@
+Added Component: Designator=R18(RESC_0603_2)
+Added Component: Designator=R19(RESC_0603_2)
+Added Component: Designator=U5(LCD_1.3)
+Added Pin To Net: NetName=VDD Pin=R18-2
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VDD Pin=U5-4
+Added Pin To Net: NetName=VDD Pin=U5-5
+Added Pin To Net: NetName=LCD_RST Pin=U5-7
+Added Pin To Net: NetName=LCD_VSYNC Pin=U5-8
+Added Pin To Net: NetName=LCD_DE Pin=U5-9
+Added Pin To Net: NetName=LCD_CLK Pin=U5-10
+Added Pin To Net: NetName=LCD_HSYNC Pin=U5-11
+Added Pin To Net: NetName=LCD_D3 Pin=U5-13
+Added Pin To Net: NetName=LCD_D4 Pin=U5-14
+Added Pin To Net: NetName=LCD_D5 Pin=U5-15
+Added Pin To Net: NetName=LCD_D6 Pin=U5-16
+Added Pin To Net: NetName=LCD_D7 Pin=U5-17
+Added Pin To Net: NetName=LCD_D10 Pin=U5-18
+Added Pin To Net: NetName=LCD_D11 Pin=U5-19
+Added Pin To Net: NetName=LCD_D12 Pin=U5-20
+Added Pin To Net: NetName=GND Pin=U5-23
+Added Pin To Net: NetName=GND Pin=U5-24
+Added Pin To Net: NetName=GND Pin=U5-25
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U5-1
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetR19_1 Pin=R19-1
+Added Pin To Net: NetName=NetR19_1 Pin=U5-6
+Added Net: Name=NetR19_1
+Added Member To Class: ClassName=V831_CORE Member=Component R18 30R
+Added Member To Class: ClassName=V831_CORE Member=Component R19 10K
+Added Member To Class: ClassName=V831_CORE Member=Component U5 LCD

@@ -1,0 +1,16 @@
+Change Component Designator: OldDesignator=C9 NewDesignator=C10
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Change Component Designator: OldDesignator=XC6206 NewDesignator=XC1
+Change Component Designator: OldDesignator=XC? NewDesignator=XC2
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR17_1
+Added Room: Name=V831

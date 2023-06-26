@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=VDD Pin=R10-2
+Removed Pin From Net: NetName=VDD Pin=R13-2
+Removed Pin From Net: NetName=VDD Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=3V0 Pin=U3-5
+Removed Pin From Net: NetName=VDD Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=1V5 Pin=U4-5
+Removed Member From Class: ClassName=V831 Member=R10
+Removed Member From Class: ClassName=V831 Member=R13
+Removed Member From Class: ClassName=V831 Member=U3
+Removed Member From Class: ClassName=V831 Member=U4
+Added Component: Designator=XC6206(SOT23_3)
+Added Component: Designator=XC?(SOT23_3)
+Added Pin To Net: NetName=GND Pin=XC6206-1
+Added Pin To Net: NetName=3V0 Pin=XC6206-2
+Added Pin To Net: NetName=VDD Pin=XC6206-3
+Added Pin To Net: NetName=GND Pin=XC?-1
+Added Pin To Net: NetName=1V5 Pin=XC?-2
+Added Pin To Net: NetName=VDD Pin=XC?-3
+Added Member To Class: ClassName=V831 Member=Component XC6206 XC6206_3.0
+Added Member To Class: ClassName=V831 Member=Component XC? XC6206_1.5
+Added Room: Name=V831
+Added Room: Name=V831_CORE

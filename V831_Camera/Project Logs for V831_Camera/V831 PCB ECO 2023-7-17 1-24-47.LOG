@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=LED Pin=LED2-1
+Removed Pin From Net: NetName=GND Pin=M1-0
+Removed Pin From Net: NetName=+5 Pin=R9-1
+Removed Member From Class: ClassName=V831 Member=R9
+Added Component: Designator=R?(RESC_0603_2)
+Added Pin To Net: NetName=VDD Pin=LED2-2
+Added Pin To Net: NetName=LED Pin=R?-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R?-1
+Added Net: Name=NetLED2_1
+Added Member To Class: ClassName=V831 Member=Component R? 5.1K
+Added Room: Name=V831
+Added Room: Name=V831_CORE

@@ -1,0 +1,7 @@
+Removed Member From Class: ClassName=V831_CORE Member=R14
+Change Component Footprint: Designator=L1 Old Footprint=Inductance_nr New Footprint=INDUCTANCE_4*4
+Added Member To Class: ClassName=V831 Member=Component C10 10UF
+Added Member To Class: ClassName=V831 Member=Component R11 5.1K
+Added Member To Class: ClassName=V831_CORE Member=Component R16 30R
+Added Room: Name=V831
+Added Room: Name=V831_CORE

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=TWI1_SCK Pin=P1-4
+Removed Pin From Net: NetName=TWI1_SDA Pin=P1-5
+Removed Pin From Net: NetName=VDD Pin=R12-1
+Removed Pin From Net: NetName=NetP2_2 Pin=R12-2
+Change Component Footprint: Designator=P2 Old Footprint=FPC-24Pin New Footprint=FPC-24PIN-FB
+Change Component Footprint: Designator=U3 Old Footprint=FPC_24P-F New Footprint=FPC-24PIN-FB
+Change Component Comment : Designator=R8 Old Comment=2K New Comment=4.7K
+Change Component Comment : Designator=R12 Old Comment=22R New Comment=30R
+Change Component Designator: OldDesignator=C12 NewDesignator=C14
+Added Component: Designator=C12(CAP_3216_A)
+Added Component: Designator=C13(CAP_0603)
+Added Component: Designator=C15(CAP_0603)
+Added Component: Designator=C16(CAP_0603)
+Added Component: Designator=C17(CAP_0603)
+Added Pin To Net: NetName=+5 Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=+5 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=VDD Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=VDD Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VDD Pin=C17-2
+Added Pin To Net: NetName=TWI1_SDA Pin=P1-4
+Added Pin To Net: NetName=TWI1_SCK Pin=P1-5
+Added Pin To Net: NetName=NetP2_2 Pin=R12-1
+Added Pin To Net: NetName=VDD Pin=R12-2
+Added Member To Class: ClassName=V831 Member=Component C13 100NF
+Added Member To Class: ClassName=V831 Member=Component C14 100NF
+Added Member To Class: ClassName=V831_CORE Member=Component C15 100NF
+Added Member To Class: ClassName=V831_CORE Member=Component C16 100NF
+Added Member To Class: ClassName=V831_CORE Member=Component C17 100NF
+Added Member To Class: ClassName=V831 Member=Component R9 5.1K
+Added Member To Class: ClassName=V831 Member=Component R10 5.1K
+Added Member To Class: ClassName=V831 Member=Component R12 30R
+Added Member To Class: ClassName=V831 Member=Component R14 1M
+Added Room: Name=V831
+Added Room: Name=V831_CORE

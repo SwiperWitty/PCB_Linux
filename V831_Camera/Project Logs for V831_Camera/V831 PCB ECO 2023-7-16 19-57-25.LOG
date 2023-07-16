@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=U3 Old Footprint=FPC-24PIN-FB New Footprint=FPC-24PIN-FB-Mirror
+Change Component Comment : Designator=U3 Old Comment=LCD New Comment=LCD-1.3
+Change Component Comment : Designator=P2 Old Comment=LCD New Comment=LCD-2.4
+Added Member To Class: ClassName=V831 Member=Component C12 22UF
+Added Room: Name=V831
+Added Room: Name=V831_CORE

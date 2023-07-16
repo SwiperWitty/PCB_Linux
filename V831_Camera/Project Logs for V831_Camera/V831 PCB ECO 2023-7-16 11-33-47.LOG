@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=COM1-0
+Removed Pin From Net: NetName=GND Pin=M1-0
+Removed Pin From Net: NetName=GND Pin=M1-SH2
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=GND Pin=P3-0
+Removed Pin From Net: NetName=VDD Pin=R9-2
+Removed Member From Class: ClassName=V831 Member=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Added Pin To Net: NetName=VDD Pin=U2-3
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Added Room: Name=V831
+Added Room: Name=V831_CORE
